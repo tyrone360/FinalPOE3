@@ -1,0 +1,113 @@
+💻 System Requirements
+
+Before running this project, ensure your computer meets the following requirements:
+
+Operating System
+
+- Windows 10 or Windows 11
+
+Software Requirements
+
+- Visual Studio 2022 (Community, Professional, or Enterprise)
+- .NET Desktop Development workload installed
+- .NET Framework 4.8 or later (or the framework version used by the project)
+
+Recommended Hardware
+
+- Processor: Intel Core i3 or AMD Ryzen 3 (or better)
+- RAM: Minimum 4 GB (8 GB recommended)
+- Storage: At least 500 MB of free disk space
+
+---
+
+📥 Installation Guide
+
+Step 1: Install Visual Studio 2022
+
+Download and install Visual Studio 2022 from Microsoft's official website.
+
+During installation, select the following workload:
+
+- ✅ .NET Desktop Development
+
+This workload installs everything required to build and run WPF applications.
+
+---
+
+Step 2: Clone or Download the Project
+
+Clone the repository using Git:
+
+git clone https://github.com/yourusername/Tyrone-Cybersecurity-Awareness-AI-Chatbot.git
+
+Or download the project as a ZIP file and extract it.
+
+---
+
+Step 3: Open the Project
+
+1. Launch Visual Studio 2022.
+2. Select Open a project or solution.
+3. Navigate to the project folder.
+4. Open the ".sln" (Solution) file.
+
+---
+
+Step 4: Restore Dependencies
+
+If prompted, allow Visual Studio to restore any required NuGet packages.
+
+---
+
+Step 5: Build the Project
+
+From the menu:
+
+Build → Build Solution
+
+Or press:
+
+Ctrl + Shift + B
+
+Ensure the build completes successfully with no errors.
+
+---
+
+Step 6: Run the Application
+
+Press:
+
+F5
+
+or click the Start button.
+
+The application will launch, allowing you to:
+
+- Chat with the Cybersecurity AI Assistant
+- Complete cybersecurity quizzes
+- Manage task reminders
+- View the activity log
+
+---
+
+📦 Compiler & Development Environment
+
+- IDE: Visual Studio 2022
+- Language: C#
+- UI Framework: Windows Presentation Foundation (WPF)
+- UI Markup: XAML
+- Compiler: Microsoft C# Compiler (Roslyn)
+- Build System: MSBuild
+- Runtime: .NET Framework
+
+---
+
+⚠️ Troubleshooting
+
+If the project does not run:
+
+- Verify that the .NET Desktop Development workload is installed.
+- Ensure the correct .NET Framework version is available.
+- Restore NuGet packages.
+- Clean the solution (Build → Clean Solution) and rebuild (Build → Rebuild Solution).
+- Make sure the project is set as the Startup Project before pressing F5.
