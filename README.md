@@ -1,12 +1,12 @@
-🛡️ Tyrone Cybersecurity Awareness AI Chatbot
+ Tyrone Cybersecurity Awareness AI Chatbot
 
 A modern desktop application built with WPF (C#) to promote cybersecurity awareness through an interactive AI chatbot, educational quiz games, task reminders, and activity logging. The application helps users learn about online safety, cyber threats, and best security practices in an engaging and user-friendly environment.
 
 ---
 
-✨ Features
+ Features
 
-💬 AI Cybersecurity Chatbot
+ AI Cybersecurity Chatbot
 
 - Interactive chatbot interface for cybersecurity questions.
 - Provides guidance on:
@@ -19,53 +19,43 @@ A modern desktop application built with WPF (C#) to promote cybersecurity awaren
   - Online scams
   - Digital privacy and protection
 
-📝 Task Reminders
+ Task Reminders
 
 - Create cybersecurity-related reminders.
 - Mark reminders as completed (double-click).
 - Delete completed reminders.
 - Stay organized with important security tasks.
 
-📜 Activity Log
+ Activity Log
 
 - Records user interactions within the application.
 - Displays chatbot activity and system events.
 - Helps users monitor their learning progress.
 
-🎮 Cybersecurity Quiz Game
+Cybersecurity Quiz Game
 
 - Interactive multiple-choice cybersecurity quiz.
 - Tests users' cybersecurity knowledge.
 - Score tracking to encourage continuous learning.
 
-👤 Username System
+ Username System
 
 - User enters a username when the application starts.
 - Input validation prevents empty usernames.
 - Creates a personalized user experience.
 
-🏠 Navigation System
+ Navigation System
 
 Easy sidebar navigation between:
 
-- 💬 Chatbot
-- 📝 Task Reminders
-- 📜 Activity Log
-- 🎮 Quiz Game
-- 🚪 Exit
+-  Chatbot
+-  Task Reminders
+-  Activity Log
+-  Quiz Game
+-  Exit
 
----
 
-🛠️ Technologies Used
-
-- Language: C#
-- Framework: WPF (.NET)
-- UI Design: XAML
-- IDE: Visual Studio
-
----
-
-📁 Project Structure
+Project Structure
 
 /MainWindow.xaml        → Main user interface
 /MainWindow.xaml.cs     → Event handling and application logic
@@ -73,7 +63,7 @@ Easy sidebar navigation between:
 
 ---
 
-🚀 How to Run
+ How to Run
 
 1. Open the project in Visual Studio.
 2. Restore any required NuGet packages.
@@ -82,47 +72,34 @@ Easy sidebar navigation between:
 
 ---
 
-🧠 How It Works
+ How It Works
 
 The application uses multiple Grid pages that are shown or hidden for navigation. Each feature—including the AI chatbot, reminders, activity log, and quiz game—is managed within its own section. User interactions are handled using Button Click and MouseDoubleClick events, while information is displayed using ListView controls for a clean and organized interface.
 
 ---
 
-🎯 Future Improvements
+ Future Improvements
 
-- 🤖 Integrate a real AI model (OpenAI API or a local LLM)
-- 💾 Save reminders and chat history to a database
-- 🎨 Modern Fluent or Material Design interface
-- 🔔 Desktop notifications for reminders
-- 📊 User analytics dashboard
-- 🎮 More quiz categories, timers, and difficulty levels
-- 🌐 Multi-language support
-- ☁️ Cloud synchronization
+-  ntegrate a real AI model (OpenAI API or a local LLM)
+-  Save reminders and chat history to a database
+-  Modern Fluent or Material Design interface
+-  Desktop notifications for reminders
+-  User analytics dashboard
+-  More quiz categories, timers, and difficulty levels
+-  Multi-language support
+-  Cloud synchronization
 
----
 
-📸 Screenshots
-
-Include screenshots of:
-
-- Home Page
-- AI Chatbot
-- Task Reminders
-- Activity Log
-- Cybersecurity Quiz Game
-
----
-
-👨‍💻 Developer
+ Developer
 
 Hlulani Tyrone Mthombeni
 
-WEDE5020 – Cybersecurity Awareness AI Chatbot Project
+ Cybersecurity Awareness AI Chatbot Project
 
 This project was developed to promote cybersecurity awareness while demonstrating skills in C#, WPF, XAML, event-driven programming, and desktop application development.
 
 ---
 
-📄 License
+License
 
 This project is intended for educational and academic purposes.
