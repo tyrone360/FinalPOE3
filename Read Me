@@ -1,10 +1,6 @@
-💻 System Requirements
+ System Requirements
 
 Before running this project, ensure your computer meets the following requirements:
-
-Operating System
-
-- Windows 10 or Windows 11
 
 Software Requirements
 
@@ -20,7 +16,7 @@ Recommended Hardware
 
 ---
 
-📥 Installation Guide
+ Installation Guide
 
 Step 1: Install Visual Studio 2022
 
@@ -28,7 +24,7 @@ Download and install Visual Studio 2022 from Microsoft's official website.
 
 During installation, select the following workload:
 
-- ✅ .NET Desktop Development
+-  .NET Desktop Development
 
 This workload installs everything required to build and run WPF applications.
 
@@ -90,7 +86,7 @@ The application will launch, allowing you to:
 
 ---
 
-📦 Compiler & Development Environment
+ Compiler & Development Environment
 
 - IDE: Visual Studio 2022
 - Language: C#
@@ -102,7 +98,7 @@ The application will launch, allowing you to:
 
 ---
 
-⚠️ Troubleshooting
+ Troubleshooting
 
 If the project does not run:
 
