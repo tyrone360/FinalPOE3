@@ -2,9 +2,7 @@
 
 A modern desktop application built with WPF (C#) to promote cybersecurity awareness through an interactive AI chatbot, educational quiz games, task reminders, and activity logging. The application helps users learn about online safety, cyber threats, and best security practices in an engaging and user-friendly environment.
 
----
 
- Features
 
  AI Cybersecurity Chatbot
 
