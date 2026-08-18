@@ -2,8 +2,6 @@
 
 A modern desktop application built with WPF (C#) to promote cybersecurity awareness through an interactive AI chatbot, educational quiz games, task reminders, and activity logging. The application helps users learn about online safety, cyber threats, and best security practices in an engaging and user-friendly environment.
 
-
-
  AI Cybersecurity Chatbot
 
 - Interactive chatbot interface for cybersecurity questions.
@@ -59,8 +57,6 @@ Project Structure
 /MainWindow.xaml.cs     → Event handling and application logic
 /Assets                 → Images, icons and resources
 
----
-
  How to Run
 
 1. Open the project in Visual Studio.
@@ -68,13 +64,8 @@ Project Structure
 3. Build the solution.
 4. Press F5 to run the application.
 
----
 
- How It Works
-
-The application uses multiple Grid pages that are shown or hidden for navigation. Each feature—including the AI chatbot, reminders, activity log, and quiz game—is managed within its own section. User interactions are handled using Button Click and MouseDoubleClick events, while information is displayed using ListView controls for a clean and organized interface.
-
----
+The application uses multiple Grid pages that are shown or hidden for navigation. Each feature—including the AI chatbot, reminders, activity log, and quiz game—is managed within its own section. User interactions are handled using Button Click and MouseDoubleClick events, while information is displayed using ListView 
 
  Future Improvements
 
@@ -86,7 +77,6 @@ The application uses multiple Grid pages that are shown or hidden for navigation
 -  More quiz categories, timers, and difficulty levels
 -  Multi-language support
 -  Cloud synchronization
-
 
  Developer
 
