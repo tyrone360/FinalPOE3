@@ -311,6 +311,7 @@ namespace demo
             add_answers.Add("purpose my purpose is to educate you on how to stay safe online and guide your cybersecurity questions.");
             add_answers.Add("purpose i help users understand online safety and digital protection.");
             add_answers.Add("purpose i assist with cybersecurity awareness and safety guidance.");
+            add_answers.Add("phishing attackers use deception to make users believe they are legitimate.");
 
 
             add_answers.Add("cybersecurity cybersecurity is about protecting systems and networks from digital threats.");
