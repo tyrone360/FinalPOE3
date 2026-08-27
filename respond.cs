@@ -292,7 +292,7 @@ namespace demo
             ignoring.Add("yourself");
             ignoring.Add("yourselves");
 
-        }//
+        }
 
 
 
@@ -389,16 +389,6 @@ namespace demo
 
 
 
-            
-
         }//end of method
-
-
-
-
-
-
-
-
     }
 }
