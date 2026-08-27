@@ -207,8 +207,6 @@ namespace demo
             SqlCommand run_query = new SqlCommand(query, connects);
             run_query.ExecuteNonQuery();
 
-
-
             //and close the conneciton once done
             connects.Close();
 
@@ -240,10 +238,7 @@ namespace demo
             //close the connection after using it
             connects.Close();
 
-
-
         }//end of delete_task method
-
 
     }//end of class
 }//end of namespace
